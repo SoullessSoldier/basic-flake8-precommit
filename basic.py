@@ -1,4 +1,9 @@
-import sys
+# import sys
+# import random
 
-print('Hello, world') 
 
+class Fake:
+    pass
+
+
+print('Hello, world')
